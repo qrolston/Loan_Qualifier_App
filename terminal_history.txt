@@ -1,0 +1,50 @@
+  315  git config -- global user.Quianna Rolston
+  316  git config -- global user.QuiannaRolston
+  317  git config --global user.name Quianna Rolston
+  318  git config --global user.email quiannarolston@gmail.com
+  319  cd C:\Users\darre\OneDrive\Desktop\GitHub_Upload\Challenge 2\Starter_Code\loan_qualifier_app
+  320  cd 'C:\Users\darre\OneDrive\Desktop\GitHub_Upload\Challenge 2\Starter_Code\loan_qualifier_app'
+  321  cd ..
+  322  cd ..
+  323  git clone https://github.com/qrolston/GitHub_Upload2.git
+  324  git status
+  325  ls
+  326  cd GitHub_Upload2
+  327  git status
+  328  cd 'C:\Users\darre\OneDrive\Desktop\GitHub_Upload\Challenge 2\Starter_Code\loan_qualifier_app'
+  329  history 50 > terminal_history.txt
+  330  winpty python app.py
+  331  cd 'C:\Users\darre\OneDrive\Desktop/GitLab'
+  332  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-06-2022-U-B.git
+  333  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-06-2022-U-B.git
+  334  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-06-2022-U-B.git
+  335  cd 'C:\Users\darre\OneDrive\Desktop\GitHub_Upload\Challenge 2'
+  336  cd GitHub_Upload2
+  337  git clone https://github.com/qrolston/GitHub_Upload2.git
+  338  git commit -m "<Reorganized files into folders>"
+  339  git commit -a
+  340  cd ~
+  341  cd 'C:\Users\darre\OneDrive\Desktop\GitHub_Upload\Challenge 2'
+  342  git clone
+  343  git clone https://github.com/qrolston/Loan_Qualifier_App.git
+  344  cd Loan_Qualifier_App
+  345  winpty python app.py
+  346  pip install fire
+  347  pip install questionary
+  348  winpty python app.py
+  349  winpty python app.py
+  350  git commit -m "<updated ReadMe file>"
+  351  git commit -a
+  352  git add <README.md>
+  353  git commit -am 'updated ReadMe file and completed a qualifying loans csv file'
+  354  git add file
+  355  git status
+  356  git push
+  357  git push
+  358  git push
+  359  git push
+  360  git status
+  361  git commit
+  362  git commit -am "updated Readme"
+  363  git push
+  364  history 50 > terminal_history.txt
